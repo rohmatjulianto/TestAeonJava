@@ -7,7 +7,6 @@ public class Problem3 {
     public static void main(String[] args) {
         Integer[] arr = new Integer[]{1,3,5};
         System.out.println(solution(arr));
-
     }
 
     public static int solution(Integer[] arr){
